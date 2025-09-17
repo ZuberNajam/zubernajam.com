@@ -1,2 +1,4 @@
 # Ignore all BackstopJS test data
 backstop_data/
+# Ignore backstop.json file
+backstop.json
